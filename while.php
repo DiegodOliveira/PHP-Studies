@@ -33,8 +33,4 @@ while($running){
     echo $seconds . "<br>";
     }
 }
-
-
-
-
 ?>
